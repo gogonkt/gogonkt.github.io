@@ -9,5 +9,16 @@ https://github.com/TG9541/stm8ef/wiki/STM8S-Programming#problems--solutions
 
 brew install sdcc
 
+2) stm8flash
+
+git clone https://github.com/vdudouyt/stm8flash.git
+
+cd stm8flash/
+
+make
+
+sudo make install
+
+
 b} linux
 see stm8ef wiki above
